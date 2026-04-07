@@ -1,0 +1,31 @@
+.logo {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+}
+
+.logo-icon {
+    font-size: 18px;
+    color: rgb(255, 178, 0);
+}
+
+.categories {
+    margin-top: 20px;
+}
+
+.cat-link {
+    margin-right: 15px;
+    text-decoration: none;
+    color: purple;
+    font-family: sans-serif;
+}
+
+.cat-icon {
+    margin-right: 5px;
+}
+
+.cat-name {
+    font-weight: 500;
+}
